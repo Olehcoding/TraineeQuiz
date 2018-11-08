@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\home\\delaroy\\AndroidStudioProjects\\Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\home\\delaroy\\AndroidStudioProjects\\Quiz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\home\\delaroy\\AndroidStudioProjects\\Triviality\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\home\\delaroy\\AndroidStudioProjects\\Triviality\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oleg\\Documents\\Quiz-master\\Quiz-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Oleg\\Documents\\Quiz-master\\Quiz-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v16\\notification_template_custom_big.xml"
+    }
+]
